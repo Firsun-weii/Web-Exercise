@@ -31,7 +31,7 @@ body{
 }
 
 .jie{
-	width: 200px;
+	width: 400px;
 	height: 290px;
 	margin-left: 200px;
 
@@ -122,7 +122,7 @@ body{
 	background-image: url(../images/hudie.gif);
 }
 
-.footer h1{
+.footer h2{
 	text-align: center;
 	color: #FF0066;
     padding-top: 20px;
